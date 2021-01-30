@@ -1,0 +1,4 @@
+C:\Users\pc1\Desktop\ConsoleApplication_Template\My_Application\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\pc1\Desktop\ConsoleApplication_Template\My_Application\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\pc1\Desktop\ConsoleApplication_Template\My_Application\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\pc1\Desktop\ConsoleApplication_Template\My_Application\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
